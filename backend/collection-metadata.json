@@ -1,0 +1,16 @@
+{
+  "name": "PixlAgent Collection",
+  "symbol": "PXL",
+  "description": "AI-generated NFT agents created using Ideogram-v3-turbo.",
+  "image": "https://your-domain.com/banner.png",
+  "external_url": "https://pixlagent.ai",
+  "seller_fee_basis_points": 500,
+  "properties": {
+    "creators": [
+      {
+        "address": "AejHuZdNpDUiAiwuV2NKXz8K6eLzChYGpTcxptinWbar",
+        "share": 100
+      }
+    ]
+  }
+}
