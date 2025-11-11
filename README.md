@@ -1,6 +1,6 @@
 # PixlAgent – AI NFT Generator 🎨✨
 
-## Live Demo: *[https://pixl-agent.vercel.app/](https://pixl-agent.vercel.app/)*
+## Live Demo: *[https://pixl-agent-ten.vercel.app/](https://pixl-agent-ten.vercel.app/)*
 
 PixlAgent is a fully on-chain AI NFT generator and minting DApp built on Solana.
 Users pay a tiny micro-fee in USDC using FareMeter, and PixlAgent automatically generates a unique AI artwork, uploads it to IPFS, mints an NFT, and transfers it directly to the user’s wallet.
